@@ -1,0 +1,75 @@
+
+Bus Reservation System
+1. Install Bus
+2. Seat Reservation
+3. Show Bus Details
+4. Available Buses
+5. Exit
+Enter your choice: 1
+Enter Bus No: 5556
+Enter Driver's Name: bhavani
+Arrival Time: 9.30
+Departure Time: 2.00
+From: vpt
+To: hyd
+
+Bus Reservation System
+1. Install Bus
+2. Seat Reservation
+3. Show Bus Details
+4. Available Buses
+5. Exit
+Enter your choice: 2
+Enter Bus No: 5556
+Seat Number (1-32): 22
+Enter Passenger's Name: kittu
+
+Bus Reservation System
+1. Install Bus
+2. Seat Reservation
+3. Show Bus Details
+4. Available Buses
+5. Exit
+Enter your choice: 3
+Enter Bus No: 5556
+********************************************************************************
+Bus No: 5556
+Driver: bhavani	Arrival Time: 9.30	Departure: 2.00
+From: vpt	To: hyd
+********************************************************************************
+
+    1. Empty         2. Empty         3. Empty         4. Empty     
+    5. Empty         6. Empty         7. Empty         8. Empty     
+    9. Empty        10. Empty        11. Empty        12. Empty     
+   13. Empty        14. Empty        15. Empty        16. Empty     
+   17. Empty        18. Empty        19. Empty        20. Empty     
+   21. Empty        22. kittu        23. Empty        24. Empty     
+   25. Empty        26. Empty        27. Empty        28. Empty     
+   29. Empty        30. Empty        31. Empty        32. Empty     
+
+There are 31 seats empty in Bus No: 5556
+Seat no. 22 is reserved for kittu
+
+Bus Reservation System
+1. Install Bus
+2. Seat Reservation
+3. Show Bus Details
+4. Available Buses
+5. Exit
+Enter your choice: 4
+--------------------------------------------------------------------------------
+Bus No: 5556
+Driver: bhavani	Arrival Time: 9.30	Departure: 2.00
+From: vpt	To: hyd
+--------------------------------------------------------------------------------
+
+Bus Reservation System
+1. Install Bus
+2. Seat Reservation
+3. Show Bus Details
+4. Available Buses
+5. Exit
+Enter your choice: 5
+
+
+=== Code Execution Successful ===
